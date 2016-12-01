@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://sagalin.github.io/blog/"/>
-  <updated>2016-12-01T14:19:28.184Z</updated>
+  <updated>2016-12-01T14:32:05.649Z</updated>
   <id>https://sagalin.github.io/blog/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://sagalin.github.io/blog/2016/11/27/window%E4%B8%8Bidea%E8%BF%9C%E7%A8%8B%E8%B0%83%E8%AF%95Hadoop%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
     <id>https://sagalin.github.io/blog/2016/11/27/window下idea远程调试Hadoop环境部署/</id>
     <published>2016-11-27T15:25:03.000Z</published>
-    <updated>2016-12-01T14:19:28.184Z</updated>
+    <updated>2016-12-01T14:32:05.649Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/image/hadoop-image-logo.jpg" alt="img"></p>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><pre><code>在Linux上部署Hadoop环境后，要写相关开发程序的时候，却不知如何在window上idea开发后部署到Linux上运行。而且idea不像eclipse
@@ -62,7 +62,9 @@ hadoop-common-2.2.0-bin ：https://github.com/srccodes/hadoop-common-2.2.0-bin
     </summary>
     
     
-      <category term="idea,hadoop" scheme="https://sagalin.github.io/blog/tags/idea-hadoop/"/>
+      <category term="idea" scheme="https://sagalin.github.io/blog/tags/idea/"/>
+    
+      <category term="hadoop" scheme="https://sagalin.github.io/blog/tags/hadoop/"/>
     
   </entry>
   
